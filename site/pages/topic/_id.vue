@@ -59,44 +59,14 @@
 
               <div class="content" v-html="topic.content" />
 
-              <ins
-                class="adsbygoogle"
-                style="display:block"
-                data-ad-format="fluid"
-                data-ad-layout-key="-ig-s+1x-t-q"
-                data-ad-client="ca-pub-5683711753850351"
-                data-ad-slot="4728140043"
-              />
-              <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
+              
             </div>
 
             <!-- 评论 -->
             <comment entity-type="topic" :entity-id="topic.topicId" :show-ad="true" />
           </div>
           <div class="m-right">
-            <!-- 展示广告190x90 -->
-            <ins
-              class="adsbygoogle"
-              style="display:inline-block;width:190px;height:90px"
-              data-ad-client="ca-pub-5683711753850351"
-              data-ad-slot="9345305153"
-            />
-            <script>
-              (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-
-            <!-- 展示广告190x190 -->
-            <ins
-              class="adsbygoogle"
-              style="display:inline-block;width:190px;height:190px"
-              data-ad-client="ca-pub-5683711753850351"
-              data-ad-slot="5685455263"
-            />
-            <script>
-              (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
+            
 
             <div v-if="topic.toc" ref="toc" class="toc widget">
               <div class="header">
