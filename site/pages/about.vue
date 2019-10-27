@@ -36,17 +36,7 @@
             如有任何想法、意见、问题可邮件联系 mlog1#qq.com ( @替换# )
           </p>
 
-          <ins
-            class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-5683711753850351"
-            data-ad-slot="1742173616"
-            data-ad-format="auto"
-            data-full-width-responsive="true"
-          />
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+         
         </div>
       </div>
     </div>
