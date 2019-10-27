@@ -15,17 +15,6 @@
               <span>{{ project.createTime | prettyDate }}</span>
             </div>
             <div class="content">
-              <ins
-                class="adsbygoogle"
-                style="display:block"
-                data-ad-format="fluid"
-                data-ad-layout-key="-ig-s+1x-t-q"
-                data-ad-client="ca-pub-5683711753850351"
-                data-ad-slot="4728140043"
-              />
-              <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
               <p v-highlight v-html="project.content" />
             </div>
             <div class="footer">
@@ -55,38 +44,7 @@
         </div>
         <div class="m-right">
           <div style="max-height:60px;">
-            <!-- 展示广告190x90 -->
-            <ins
-              class="adsbygoogle"
-              style="display:inline-block;width:190px;height:90px"
-              data-ad-client="ca-pub-5683711753850351"
-              data-ad-slot="9345305153"
-            />
-            <script>
-              (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-
-            <!-- 展示广告190x190 -->
-            <ins
-              class="adsbygoogle"
-              style="display:inline-block;width:190px;height:190px"
-              data-ad-client="ca-pub-5683711753850351"
-              data-ad-slot="5685455263"
-            />
-            <script>
-              (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-
-            <!-- 展示广告190x480 -->
-            <ins
-              class="adsbygoogle"
-              style="display:inline-block;width:190px;height:480px"
-              data-ad-client="ca-pub-5683711753850351"
-              data-ad-slot="3438372357"
-            />
-            <script>
-              (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
+            
           </div>
         </div>
       </div>
