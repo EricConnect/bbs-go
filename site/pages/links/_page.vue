@@ -28,7 +28,7 @@
               <li v-for="link in linksPage.results" :key="link.linkId" class="link">
                 <div class="link-logo">
                   <img v-if="link.logo" :src="link.logo">
-                  <img v-if="!link.logo" src="https://file.mlog.club/mlog.club/blog.png">
+                  <img v-if="!link.logo" src="blog.png">
                 </div>
                 <div class="link-content">
                   <a
