@@ -22,9 +22,7 @@
             <div style="text-align: center;">
               <!-- 展示广告288x288 -->
               
-              <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
+             
             </div>
           </div>
         </div>
